@@ -87,7 +87,7 @@
 	url = https://github.com/vyos/vyatta-openvpn.git
 [submodule "pkgs/vyatta-quagga"]
 	path = pkgs/vyatta-quagga
-	url = https://github.com/vyos/vyatta-quagga.git
+	url = https://github.com/shamidrasool/vyatta-quagga.git
 [submodule "pkgs/vyatta-grub"]
 	path = pkgs/vyatta-grub
 	url = https://github.com/vyos/vyatta-grub.git
